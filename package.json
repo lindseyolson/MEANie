@@ -10,8 +10,16 @@
   "author": "@devjana",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.15.2",
-    "express": "^4.14.0",
-    "mongoose": "^4.5.1"
-  }
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "mongoose": "^4.10.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aleleyva10/MEANie.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aleleyva10/MEANie/issues"
+  },
+  "homepage": "https://github.com/aleleyva10/MEANie#readme"
 }
