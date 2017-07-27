@@ -1,10 +1,11 @@
-MEANie ver 4.0
-===
+## MEANie ver 4.0
 
-![MEANie logo](public/images/MEANie_4.jpg)
+Resolved issues with existing code in the MEAN stack.
 
-Project Overview
+
 ================
+Project Overview
+
 
 MEANie is a project that *mostly* working, but has some problems:
 
